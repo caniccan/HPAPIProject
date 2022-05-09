@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9wwALdoQIciVfsF2WIuxiSf0+KjTz5kZv90KtpwfTxM=",
+  "Source": "HPAPI",
+  "BasePath": "_content/HPAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
