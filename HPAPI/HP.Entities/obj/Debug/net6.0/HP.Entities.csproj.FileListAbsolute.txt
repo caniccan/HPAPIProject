@@ -22,3 +22,39 @@ C:\Users\Can\source\repos\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.dll
 C:\Users\Can\source\repos\HPAPI\HP.Entities\obj\Debug\net6.0\refint\HP.Entities.dll
 C:\Users\Can\source\repos\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.pdb
 C:\Users\Can\source\repos\HPAPI\HP.Entities\obj\Debug\net6.0\ref\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.deps.json
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.AssemblyReference.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfoInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfo.cs
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\refint\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.Entities\obj\Debug\net6.0\ref\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.deps.json
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\refint\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Entities\obj\Debug\net6.0\ref\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.deps.json
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\refint\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Entities\obj\Debug\net6.0\ref\HP.Entities.dll

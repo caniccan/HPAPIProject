@@ -4,6 +4,9 @@ using HP.Business;
 using HP.DataTransferObjects.Responses;
 using HP.DataTransferObjects.Requests;
 using HPAPI.Filters;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.Caching.Memory;
+using HPAPI.Models;
 
 namespace HPAPI.Controllers
 {
@@ -12,17 +15,41 @@ namespace HPAPI.Controllers
     public class CharacterController : ControllerBase
     {
         private readonly ICharacterService service;
-        public CharacterController(ICharacterService characterService)
+        private readonly IMemoryCache memoryCache;
+
+        public CharacterController(ICharacterService characterService, IMemoryCache memoryCache)
         {
             service = characterService;
+            this.memoryCache = memoryCache;
         }
+
+        private DateTime cacheTime = DateTime.Now;
+
         [HttpGet]
+        //[Authorize(Roles ="Admin")]
         public async Task<IActionResult> GetCharacters()
         {
-            var characters = await service.GetCharacters();
-            return Ok(characters);
+
+            if (!memoryCache.TryGetValue("characterCache",out CacheProofModel proof))
+            {
+                var entryOptions = new MemoryCacheEntryOptions().SetSlidingExpiration(TimeSpan.FromMinutes(5))
+                                                              .RegisterPostEvictionCallback((key, value, reason, state) =>
+                                                              {
+                                                                  // memory cache içerisinden bir data çıkarıldığında
+                                                                  // çalışmasını istediğiniz işlemleri yazacaksınız.
+                                                              });
+
+
+                memoryCache.Set("characterCache",new CacheProofModel { Characters = await service.GetCharacters(), CacheTime = DateTime.Now },DateTime.Now.AddMinutes(1));
+                proof =new CacheProofModel { Characters = await service.GetCharacters(), CacheTime = DateTime.Now };
+                
+            }
+
+
+            return Ok(proof);
         }
         [HttpGet("{id}")]
+        [IsExists]
         public async Task<IActionResult> GetCharacterById(int id)
         {
             CharacterDisplayResponse character = await service.GetCharacter(id);
@@ -35,6 +62,7 @@ namespace HPAPI.Controllers
             return Ok(response);
         }
         [HttpPost]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> Add(AddCharacterRequest request)
         {
             if (ModelState.IsValid)
@@ -60,11 +88,17 @@ namespace HPAPI.Controllers
             //return NotFound(new { message = $"{id} id'li karakter bulunamadı." });
         }
         [HttpDelete("{id}")]
-        [IsExists]
+        [CustomException(Order =1)]
+        [IsExists(Order =2)]
         public async Task<IActionResult> Delete(int id)
         {
-                await service.DeleteCharacter(id);
-                return Ok();
+            if (id<0 || id>200)
+            {
+                throw new ArgumentException("id degeri negatif olamaz!");
+            }
+            throw new NotImplementedException("Ürün silme işlemi tamamlanmadı");
+            await service.DeleteCharacter(id);
+            return Ok();
         }
 
     } 

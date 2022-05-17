@@ -22,3 +22,39 @@ C:\Users\Can\source\repos\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataT
 C:\Users\Can\source\repos\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\refint\HP.DataTransferObjects.dll
 C:\Users\Can\source\repos\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.pdb
 C:\Users\Can\source\repos\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\ref\HP.DataTransferObjects.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.deps.json
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfo.cs
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\refint\HP.DataTransferObjects.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\ref\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.deps.json
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\refint\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\ref\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.deps.json
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\bin\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\refint\HP.DataTransferObjects.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataTransferObjects\obj\Debug\net6.0\ref\HP.DataTransferObjects.dll

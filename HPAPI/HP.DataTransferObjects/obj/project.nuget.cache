@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ip4OessWvNcPbkpKbgc/fxEIseq8Xy1Lra76PU6B9LIitUi9OF6mExmRvh6GewPAcXDUA2ePaH72MAvcADvP3g==",
+  "dgSpecHash": "V/veX6NxJfIw8mbC7HlQ1gOWb22SoJOa3WoRxgz8eJ1MMWxRqbyyJk9ggPKGp4Ub0Ocf2tUm7smJWaU2+DPHSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
+  "projectFilePath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

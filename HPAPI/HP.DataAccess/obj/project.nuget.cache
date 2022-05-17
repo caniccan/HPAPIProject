@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qHZ2O7mFLF1LlgIOsbhecQ1n/1ezpz8KxzTfumYnIhtxSvvt5Yj9mOZFWFsJd9IzNbuyPbpXMOlnZPUzezTEw==",
+  "dgSpecHash": "LyaxWAH1dpJgYDT2/yGrdTJIE+VLr0RqRsnfVfTjOy/bUt9IgJ+L2CvvZ0sTOOeGs4WnYWirgN+rUA92E2qnVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

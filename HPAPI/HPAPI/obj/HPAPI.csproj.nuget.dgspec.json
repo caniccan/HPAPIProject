@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HPAPI\\HPAPI.csproj": {}
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj": {
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj",
         "projectName": "HP.Business",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj",
+        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj"
+              "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj"
               },
-              "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj"
+              "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj"
               }
             }
           }
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj": {
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
         "projectName": "HP.DataAccess",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\HP.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\HP.Entities.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\HP.Entities.csproj"
+              "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\HP.Entities.csproj": {
+                "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\HP.Entities.csproj"
               }
             }
           }
@@ -147,18 +147,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
         "projectName": "HP.DataTransferObjects",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
+        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.DataTransferObjects\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,18 +201,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\HP.Entities.csproj": {
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\HP.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\HP.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\HP.Entities.csproj",
         "projectName": "HP.Entities",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\HP.Entities.csproj",
+        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\HP.Entities.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,18 +255,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Can\\source\\repos\\HPAPI\\HPAPI\\HPAPI.csproj": {
+    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\source\\repos\\HPAPI\\HPAPI\\HPAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
         "projectName": "HPAPI",
-        "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HPAPI\\HPAPI.csproj",
+        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HPAPI\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,8 +283,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj": {
-                "projectPath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj"
+              "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj": {
+                "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj"
               }
             }
           }
@@ -299,6 +299,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -328,7 +332,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VBLmKrWx1ivhDDUDMQvcb4aR+yfc98JJ7TmViFCcCcRWKzz0AJj2LNEgUV8XmUMwIlP/kvhvBuOMUIF7eHb7A==",
+  "dgSpecHash": "sVmKuOOyXVqanQQ01qCLlVi1an+rrV82arPZ5x4sJ46Kuh/lDhf44XWfVIcKErg50jKJ+b69bNJy4IZBB5iQiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\source\\repos\\HPAPI\\HP.Business\\HP.Business.csproj",
+  "projectFilePath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

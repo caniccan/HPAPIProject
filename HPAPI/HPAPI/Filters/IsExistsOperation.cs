@@ -14,9 +14,9 @@ namespace HPAPI.Filters
         }
         public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
         {
-            if (context.ActionArguments.ContainsKey("id"))
+            if (!context.ActionArguments.ContainsKey("id"))
             {
-                context.Result = new BadRequestObjectResult("Id is required");
+                context.Result = new BadRequestObjectResult("Id gereklidir");
             }
             else
             {

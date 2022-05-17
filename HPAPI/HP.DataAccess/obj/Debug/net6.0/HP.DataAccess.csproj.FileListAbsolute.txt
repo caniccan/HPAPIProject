@@ -32,3 +32,54 @@ C:\Users\Can\source\repos\HPAPI\HP.DataAccess\obj\Debug\net6.0\refint\HP.DataAcc
 C:\Users\Can\source\repos\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.pdb
 C:\Users\Can\source\repos\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.genruntimeconfig.cache
 C:\Users\Can\source\repos\HPAPI\HP.DataAccess\obj\Debug\net6.0\ref\HP.DataAccess.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.deps.json
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.runtimeconfig.json
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfo.cs
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CopyComplete
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\refint\HP.DataAccess.dll
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.genruntimeconfig.cache
+C:\Users\DeLL\Documents\GitHub\HPAPIProject\HPAPI\HP.DataAccess\obj\Debug\net6.0\ref\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.deps.json
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CopyComplete
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\refint\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.genruntimeconfig.cache
+C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.DataAccess\obj\Debug\net6.0\ref\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.deps.json
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.csproj.CopyComplete
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\refint\HP.DataAccess.dll
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\HP.DataAccess.genruntimeconfig.cache
+C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.DataAccess\obj\Debug\net6.0\ref\HP.DataAccess.dll

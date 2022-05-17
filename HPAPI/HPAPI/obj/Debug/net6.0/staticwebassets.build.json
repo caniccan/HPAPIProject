@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "9wwALdoQIciVfsF2WIuxiSf0+KjTz5kZv90KtpwfTxM=",
+  "Hash": "xizL0yNpbYCQuj45MeiL6Q3FPRsBO4Mhw/OJgALHWBQ=",
   "Source": "HPAPI",
   "BasePath": "_content/HPAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "HPAPI\\wwwroot",
+      "Source": "HPAPI",
+      "ContentRoot": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
+      "BasePath": "_content/HPAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\error.html",
+      "SourceId": "HPAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
+      "BasePath": "_content/HPAPI",
+      "RelativePath": "error.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    }
+  ]
 }
