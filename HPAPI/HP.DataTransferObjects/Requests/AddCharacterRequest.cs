@@ -9,7 +9,6 @@ namespace HP.DataTransferObjects.Requests
 {
     public class AddCharacterRequest
     {
-        public int CharacterId { get; set; }
         [Required(ErrorMessage ="Karakter adı gereklidir.")]
         [StringLength(50,ErrorMessage ="Karakter adı 50 karakterden uzun olamaz")]
         [MinLength(3,ErrorMessage ="Karakter adı en az 3 karakterden oluşmalıdır.")]

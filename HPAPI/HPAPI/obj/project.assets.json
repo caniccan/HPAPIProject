@@ -2188,19 +2188,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Can\\.nuget\\packages\\": {}
+    "C:\\Users\\DeLL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
+      "projectUniqueName": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
       "projectName": "HPAPI",
-      "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
-      "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\obj\\",
+      "projectPath": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\HPAPI.csproj",
+      "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2214,8 +2214,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj": {
-              "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj"
+            "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj": {
+              "projectPath": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.Business\\HP.Business.csproj"
             }
           }
         }
@@ -2263,7 +2263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

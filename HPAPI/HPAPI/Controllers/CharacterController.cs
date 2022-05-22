@@ -76,16 +76,12 @@ namespace HPAPI.Controllers
         [IsExists]
         public async Task<IActionResult> Update(int id, UpdateCharacterRequest request)
         {
-            //if (await service.IsCharacterExists(id))
-            //{ 
                 if (ModelState.IsValid)
                 {
                     await service.UpdateCharacter(request);
                     return Ok();
                 }
                 return BadRequest(ModelState);
-            //}
-            //return NotFound(new { message = $"{id} id'li karakter bulunamadı." });
         }
         [HttpDelete("{id}")]
         [CustomException(Order =1)]

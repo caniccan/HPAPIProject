@@ -28,7 +28,6 @@ namespace HP.DataAccess.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    CharacterId = table.Column<int>(type: "int", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Surname = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     BirthYear = table.Column<int>(type: "int", nullable: false),
@@ -66,11 +65,11 @@ namespace HP.DataAccess.Migrations
 
             migrationBuilder.InsertData(
                 table: "Characters",
-                columns: new[] { "Id", "BirthYear", "CategoryId", "CharacterId", "CreatedAt", "EyeColor", "Gender", "HairColor", "HaveNose", "Height", "Mass", "Name", "Pet", "SkinColor", "Surname", "UpdatedAt", "Wands" },
+                columns: new[] { "Id", "BirthYear", "CategoryId", "CreatedAt", "EyeColor", "Gender", "HairColor", "HaveNose", "Height", "Mass", "Name", "Pet", "SkinColor", "Surname", "UpdatedAt", "Wands" },
                 values: new object[,]
                 {
-                    { 1, 1999, null, 1, null, "Brown", "Male", "Brown", true, 193.0, 90, "Can", "Cat", "White", "İçcan", null, "Dont Have" },
-                    { 2, 1980, null, 2, null, "Bright green", "Male", "Jet-black", true, 180.0, 67, "Harry James", "Snowy owl", "Light", "Potter", null, "Harry Potter's Wand, Blackthorn Wand, Draco Malfoy's Wand, Elder Wand" }
+                    { 1, 1999, null, null, "Brown", "Male", "Brown", true, 193.0, 90, "Can", "Cat", "White", "İçcan", null, "Dont Have" },
+                    { 2, 1980, null, null, "Bright green", "Male", "Jet-black", true, 180.0, 67, "Harry James", "Snowy owl", "Light", "Potter", null, "Harry Potter's Wand, Blackthorn Wand, Draco Malfoy's Wand, Elder Wand" }
                 });
 
             migrationBuilder.CreateIndex(

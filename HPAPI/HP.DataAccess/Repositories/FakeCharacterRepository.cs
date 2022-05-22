@@ -14,10 +14,10 @@ namespace HP.DataAccess.Repositories
         {
             characters = new List<Character>
             {
-                new Character{CharacterId=1, BirthYear=1999, EyeColor="Brown", Gender="Male",
+                new Character{Id=1, BirthYear=1999, EyeColor="Brown", Gender="Male",
                     HairColor="Brown", HaveNose=true, Pet="Cat", Height=193, Mass=90,
                     Name="Can", Surname="İçcan", SkinColor="White", Wands="Dont Have"},
-                new Character{CharacterId=2, BirthYear=1980, EyeColor="Bright green", Gender="Male",
+                new Character{Id=2, BirthYear=1980, EyeColor="Bright green", Gender="Male",
                     HairColor="Jet-black", HaveNose=true, Pet="Snowy owl", Height=180, Mass=67,
                     Name="Harry James", Surname="Potter", SkinColor="Light", Wands="Harry Potter's Wand, Blackthorn Wand, Draco Malfoy's Wand, Elder Wand"}
             };

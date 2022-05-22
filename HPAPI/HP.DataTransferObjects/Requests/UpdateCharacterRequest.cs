@@ -10,7 +10,6 @@ namespace HP.DataTransferObjects.Requests
     public class UpdateCharacterRequest
     {
         public int Id { get; set; }
-        public int CharacterId { get; set; }
         [Required]
         public string Name { get; set; }
         public string Surname { get; set; }

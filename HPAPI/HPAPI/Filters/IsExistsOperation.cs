@@ -29,12 +29,7 @@ namespace HPAPI.Filters
                 {
                     await next.Invoke();
                 }
-
-                
             }
-
-
-            
         }
     }
 }

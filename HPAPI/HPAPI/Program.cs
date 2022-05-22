@@ -36,7 +36,6 @@ builder.Services.AddMemoryCache();
 
 var key =new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration.GetSection("token:secret").Value));
 
-//builder.Services.AddAuthentication("basic").AddScheme<BasicAuthenticationOptions, BasicAuthenticationHandler>("Basic",null);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
@@ -54,41 +53,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 var app = builder.Build();
 
-//app.UseWelcomePage();
-//app.Run(async (context) =>
-//{
-//    await context.Response.WriteAsync("Talep middleware tarafýndan yakalandý.")
-//});
-
-//app.Map("/test", middleBuilder =>
-//{
-//    middleBuilder.Run(async (ctx) =>
-//    {
-//        if (ctx.Request.Query.ContainsKey("id"))
-//        {
-//            int id = int.Parse(ctx.Request.Query["id"]);
-//            await ctx.Response.WriteAsync($"{id} degeri, middleware'a geldi");
-//            using var scope = middleBuilder.ApplicationServices.CreateScope();
-//            var characterService = scope.ServiceProvider.GetRequiredService<ICharacterService>();
-//            if (await characterService.IsCharacterExists(id))
-//            {
-//                await ctx.Response.WriteAsync($"{id} degeri, db'de var");
-//            }
-//            else
-//            {
-//                await ctx.Response.WriteAsync($"{id} degeri, db'de yok");
-//            }
-//        }
-//        else
-//        {
-//            await ctx.Response.WriteAsync("id degeri, middleware'a gelmedi!");
-//        }
-//    });
-//});
-
-
 // Configure the HTTP request pipeline.
-// Yukarýdaki kod yerine, bu extension metot çaðýrýlýyor:
+
 app.UseCharacterIsExistTestPage();
 
 app.Use((ctx, next) =>
@@ -97,12 +63,6 @@ app.Use((ctx, next) =>
     return next();
 });
 
-
-
-
-//app.UseMiddleware<CheckBrowserIsIEMiddleware>();
-//app.UseMiddleware<ResponseEditingMiddleware>();
-//app.UseMiddleware<RedirectMiddleware>();
 
 app.UseCheckIE();
 

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {}
+    "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
+    "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
+        "projectUniqueName": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
         "projectName": "HP.DataTransferObjects",
-        "projectPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
-        "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\obj\\",
+        "projectPath": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\HP.DataTransferObjects.csproj",
+        "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HP.DataTransferObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

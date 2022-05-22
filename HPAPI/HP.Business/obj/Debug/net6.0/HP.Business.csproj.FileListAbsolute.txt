@@ -74,22 +74,22 @@ C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Business\obj\Debug\net6.0\HP.Busin
 C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Business\obj\Debug\net6.0\refint\HP.Business.dll
 C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.pdb
 C:\Users\Can\Documents\GitHub\week 6\HPAPI\HP.Business\obj\Debug\net6.0\ref\HP.Business.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.deps.json
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.pdb
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataAccess.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataTransferObjects.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Entities.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataAccess.pdb
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataTransferObjects.pdb
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Entities.pdb
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.AssemblyReference.cache
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.AssemblyInfoInputs.cache
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.AssemblyInfo.cs
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.CoreCompileInputs.cache
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.CopyComplete
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\refint\HP.Business.dll
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.pdb
-C:\Users\Can\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\ref\HP.Business.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.deps.json
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Business.pdb
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataAccess.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataTransferObjects.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Entities.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataAccess.pdb
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.DataTransferObjects.pdb
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\bin\Debug\net6.0\HP.Entities.pdb
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.AssemblyReference.cache
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.AssemblyInfoInputs.cache
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.AssemblyInfo.cs
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.csproj.CopyComplete
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\refint\HP.Business.dll
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\HP.Business.pdb
+C:\Users\DeLL\Documents\GitHub\API.Project\HPAPIProject\Week 6\Lesson 5+\HPAPI\HP.Business\obj\Debug\net6.0\ref\HP.Business.dll

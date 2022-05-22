@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xizL0yNpbYCQuj45MeiL6Q3FPRsBO4Mhw/OJgALHWBQ=",
+  "Hash": "RLt/vQzZ7GjZUQuTFMjKnqZ6pjyPM4T+Uf54V3k4if4=",
   "Source": "HPAPI",
   "BasePath": "_content/HPAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HPAPI\\wwwroot",
       "Source": "HPAPI",
-      "ContentRoot": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
       "BasePath": "_content/HPAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\error.html",
+      "Identity": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\error.html",
       "SourceId": "HPAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Can\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DeLL\\Documents\\GitHub\\API.Project\\HPAPIProject\\Week 6\\Lesson 5+\\HPAPI\\HPAPI\\wwwroot\\",
       "BasePath": "_content/HPAPI",
       "RelativePath": "error.html",
       "AssetKind": "All",

@@ -33,7 +33,7 @@ namespace HP.DataAccess.Data
             modelBuilder.Entity<Character>().HasData(
                 new Character
                 {
-                    CharacterId = 1,
+                    
                     BirthYear = 1999,
                     EyeColor = "Brown",
                     Gender = "Male",
@@ -44,13 +44,13 @@ namespace HP.DataAccess.Data
                     Mass = 90,
                     Name = "Can",
                     Surname = "İçcan",
-                    SkinColor = "White",
+                    SkinColor = "Light",
                     Wands = "Dont Have",
                     Id = 1
                 },
                 new Character
                 {
-                    CharacterId = 2,
+                    
                     BirthYear = 1980,
                     EyeColor = "Bright green",
                     Gender = "Male",
@@ -69,10 +69,6 @@ namespace HP.DataAccess.Data
 
                 );
         }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            // you can delete this part bu bölümü silebilirsin.
-           // optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;");
-        }
+        
     }
 }

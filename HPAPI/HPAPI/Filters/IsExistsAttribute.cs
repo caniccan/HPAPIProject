@@ -6,12 +6,8 @@ namespace HPAPI.Filters
 {
     public class IsExistsAttribute : TypeFilterAttribute
     {
-        //public ICharacterService CharacterService { get; set; }
         public IsExistsAttribute() : base(typeof(IsExistsOperation))
         {
-            
-            
-
             
         }
     }

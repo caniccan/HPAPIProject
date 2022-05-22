@@ -49,7 +49,6 @@ namespace HPAPI.Security
             var user = userService.Validate(username, password);
             if (user != null)
             {
-                //TODO 1 = Geriye, claim ve token bilgisini döndür.
                 Claim[] claims = new[]
                 {
                     new Claim(ClaimTypes.Name, user.UserName),
